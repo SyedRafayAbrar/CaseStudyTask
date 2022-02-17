@@ -1,1 +1,2 @@
 # CaseStudyTask
+Implemented MVVM Architecture
